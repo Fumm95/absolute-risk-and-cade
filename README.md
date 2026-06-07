@@ -1,5 +1,5 @@
 # Absolute Risk Modeling and Conditional Average Derivative Estimator (CADE)
-This repository contains the R code for calculating absolute risk of disease incidence and mortality and conditional average derivative estimator in the All of Us cohort. All data were taken from the All of Us research cohort version 7. <a href="https://www.medrxiv.org/content/10.64898/2026.06.03.26354842v1">Read the paper on medRxiv.</a>
+This repository contains the R code for calculating absolute risk of disease incidence and mortality and conditional average derivative estimator in the All of Us cohort. All data were taken from the All of Us research cohort version 7. <a href="https://www.medrxiv.org/content/10.64898/2026.06.03.26354842v2">Read the paper on medRxiv.</a>
 
 <b>The file structure is as follows:</b>
 1. Data Set-up contains the code for setting up the datasets for fitting the absolute risk model.
