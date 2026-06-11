@@ -3,7 +3,7 @@ This repository contains the R code for calculating absolute risk of disease inc
 
 <b>The file structure is as follows:</b>
 1. Data Set-up contains the code for setting up the datasets for fitting the absolute risk model.
-2. Data Calibration uses the training datasets to calculate the baseline risk of disease.
-3. Disease Incidence Risk calculates the absolute risk of disease incidence for the validation dataset.
-4. Disease Mortality Risk calculates the 10-year disease mortality risk.
+2. Model Training and Calibration in All of Us uses the training datasets to calculate the baseline risk of disease and set up model calibration calculations.
+3. Projecting Absolute Risk of Cancer Incidence calculates the absolute risk of cancer incidence for the validation dataset.
+4. Projecting Absolute Risk of Cancer Mortality calculates the 10-year disease mortality risk.
 5. Code for Tables Figures and CADE contains all the code for generating the tables and figures, and an example on calculating the CADE for disease incidence risk.
